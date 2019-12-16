@@ -1,3 +1,6 @@
 
 
 https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
+
+MUST READ - Blue/Green Deployments on AWS
+https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
